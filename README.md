@@ -1,7 +1,9 @@
 # AIRWAYS-RESERVATION-SYSTEM
 
-INTRODUCTION OF PROJECT
-NEED OF PROJECT
+INTRODUCTION OF PROJECT:
+
+NEED OF PROJECT:
+
 As India rapidly moving toward evolution of mechanism, So as to meet the basic necessity we needs to travel from one place to another & only by air we can reach the required place/destination as early as possible.
 
 So aircraft management that is airport management should be developed to meet the 21st century. Therefore, we should design our airport with well equipped technology. It will ease our transportation. By the help of this ‘Airways system’ software we can do all works as fast as we require.
@@ -31,6 +33,7 @@ Every form has the option of going back to the previous form so that if a user h
 Forms are loaded and unloaded as the need is specified by the user commands. All the database is accessed using the VISUAL BASIC forms and the user is never confronted to dealing with typical commands of the ACCESS database.
 
 MODULES:
+
 1. Registration module
 2. Administrative module
 3. Passenger module
@@ -73,6 +76,7 @@ Administrators can:
 This system also incorporates a frequent flier miles points system for loyal customers which will provide additional benefits to them.
 
 CONCLUSION:
+
 The Airline reservation system has been a way of minimizing the clerical work, which is almost a routine and consumes the most precious time.
 
 The project entitled “AIRLINE RESERVATION SYSTEM” has been an attempt to help the user to minimize his work load along with minimizing the paper works and saving of time.
